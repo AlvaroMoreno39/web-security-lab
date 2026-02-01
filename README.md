@@ -70,6 +70,12 @@ This repository contains intentionally vulnerable code created **for educational
 The goal of this project is to understand:
 - why web vulnerabilities occur
 - their real-world impact
+
+## Disclaimer
+This project is for educational purposes only.
+All vulnerabilities are demonstrated in a local and controlled environment.
+Do not use these techniques on systems you do not own or have permission to test.
+
 - and how to mitigate them properly
 
 This repository documents my learning process as I build a strong foundation
