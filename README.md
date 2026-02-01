@@ -70,13 +70,37 @@ This repository contains intentionally vulnerable code created **for educational
 The goal of this project is to understand:
 - why web vulnerabilities occur
 - their real-world impact
-
-## Disclaimer
-This project is for educational purposes only.
-All vulnerabilities are demonstrated in a local and controlled environment.
-Do not use these techniques on systems you do not own or have permission to test.
-
-- and how to mitigate them properly
+- how to mitigate them properly
 
 This repository documents my learning process as I build a strong foundation
 in web security and secure development practices.
+
+--- 
+
+## Disclaimer
+
+This project is for educational purposes only.
+All vulnerabilities are demonstrated in a local and controlled environment.
+Do not use these techniques on systems you do not own or have explicit permission to test.
+
+--- 
+
+## Next Steps
+
+This project will continue to evolve as I progress through further
+web security and penetration testing topics.
+
+Planned next steps include:
+
+- Implementing and analyzing **authorization flaws** such as
+  Insecure Direct Object References (IDOR)
+- Exploring **authentication weaknesses** and session handling issues
+- Adding basic **access control logic** and testing for bypasses
+- Practicing additional **OWASP Top 10** vulnerabilities in this lab
+- Improving documentation by linking vulnerabilities to
+  penetration testing methodologies and real-world attack scenarios
+
+The goal is to progressively expand this lab into a more complete
+web application security testing environment, aligned with my ongoing
+learning in Hack The Box Academy and penetration testing fundamentals.
+
